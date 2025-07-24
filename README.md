@@ -36,6 +36,3 @@ Bu proje, belirli bir klasördeki dosya değişikliklerini (ekleme, silme, düze
 - Loglama pratiği edinmek  
 - FileOrbis, JAMF, SCCM gibi altyapıların temellerini öğrenmek
 
-## 👨‍💻 Not
-
-Bu proje, uç nokta yönetimi (endpoint management) alanında beceri göstermek isteyen yeni başlayanlar için örnek bir simülasyon olarak tasarlanmıştır.
